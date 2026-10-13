@@ -1,0 +1,6 @@
+{
+  "name": "Neumorphic Calc",
+  "description": "Calculadora neumórfica minimalista com relevos táteis 3D, sombras suaves, histórico de cálculos e haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

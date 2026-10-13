@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Neumorphic Calc</string>
+    <string name="calc_history">Histórico</string>
+    <string name="calc_clear_history">Limpar histórico</string>
+    <string name="calc_no_history">Nenhum cálculo registrado ainda</string>
+    <string name="calc_theme_light">Tema Claro</string>
+    <string name="calc_theme_dark">Tema Escuro</string>
+    <string name="calc_copy_result">Copiar resultado</string>
+    <string name="calc_copied">Resultado copiado!</string>
+    <string name="calc_vibration_toggle">Vibração tátil</string>
+</resources>
